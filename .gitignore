@@ -13,12 +13,12 @@
 nbproject/private/
 build/
 nbbuild/
-dist/
 nbdist/
 .nb-gradle/
 
 # Maven files
-/target
+*/target
+*dependency-reduced-pom.xml
 
 # Java files
 *.class
